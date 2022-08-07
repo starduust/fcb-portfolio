@@ -1,0 +1,52 @@
+* {
+	font-family: 'Roboto', sans-serif;
+}
+
+h1, h2 {
+	font-family: 'Montserrat', sans-serif;
+	
+}
+
+h2 {
+	color: hotpink;
+}
+
+img {
+	height: 250px;
+	width:  250px;
+}
+
+.jumbotron{
+	background-color: transparent;
+}
+
+#landing{
+	height:  80vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+#gallery{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height:  75vh;
+}
+
+ul {
+  list-style-type: none;
+  padding:  0;
+}
+
+.tools {
+	padding:  25px;
+	height:  200px;
+	border:  5px solid hotpink;
+	margin: 20px;
+	width: 75%;
+	color: white;
+}
+
